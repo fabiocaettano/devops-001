@@ -1,7 +1,7 @@
 # Desafio DevOps & Cloud
 
 ## Docker Hub
-[Link da Imagem no Docker Hub][https://chat.deepseek.com/a/chat/s/425bd0ef-986f-44f5-bced-2b2adc996ce4]
+[Link da Imagem no Docker Hub] [https://chat.deepseek.com/a/chat/s/425bd0ef-986f-44f5-bced-2b2adc996ce4]
 
 ## Comandos Docker:
 
