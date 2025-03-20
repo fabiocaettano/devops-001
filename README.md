@@ -1,15 +1,23 @@
 # Desafio DevOps & Cloud
 
-## Desafio 01 - Desafio Docker
+## Criar imagem versionada:
+```dockerfile
+docker build -t fabiocaettano/conversao-distancia-desafio:v01 .
+```
 
-Link para o repositório do projeto conversão de distância:
+## Versão latest:
+```
+docker tag fabiocaettano/conversao-distancia-desafio:v01 fabiocaettano/conversao-distancia-desafio:latest
+```
 
-[https://github.com/KubeDev/conversao-distancia](https://github.com/KubeDev/conversao-distancia)
+## Visualizar imagens:
+```
+docker image ls
+```
 
+## Criar o container:
+```
+docker container run -d -p 5000:5000 fabiocaettano/conversao-distancia-desafio:latest
+```
 
-## Desafio 02 - Kubernetes
-
-Link para o repositório do projeto fake shop:
-
-[https://github.com/KubeDev/fake-shop](https://github.com/KubeDev/fake-shop)
 
