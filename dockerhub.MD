@@ -2,5 +2,5 @@
 
 ## Docker Hub
 
-[Link da Imagem no Docker Hub](https://hub.docker.com/repository/docker/fabiocaettano74/conversao-distancia-desafio/general)
+[Link da Imagem no Docker Hub](https://hub.docker.com/repository/docker/fabiocaettano74/conversao-distancia-desafio)
 
